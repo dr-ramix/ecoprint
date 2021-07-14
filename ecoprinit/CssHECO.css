@@ -1,0 +1,70 @@
+#brand{
+    width: 40px;;
+    height: 40px;
+    margin: auto;
+    
+}
+
+h2{
+    text-align: center;
+    background-color: #00B06F;
+    padding: 30px;
+    border-radius: 30px;
+    font-size: 100px;
+    font-family: 'Kalam', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+article{
+    color: whitesmoke;
+    font-family: 'Roboto Condensed', sans-serif;
+   
+}
+p{
+    background-color: #00B06F;
+    font-size: 20px;
+    padding:25px;
+    border-radius: 30px;
+}
+.frage{
+    color:#012a3a;
+    margin-top: 90px;
+    font-size:50px;
+}
+.antwort{
+    color:whitesmoke;
+    font: size 30px;
+}
+iframe{
+    border-radius: 30px;
+}
+
+footer{
+    background-color: hsl(194, 88%, 27%);
+    color: white;
+    height: 200px;
+    font-size:20px;
+    margin-top:  60px;
+    padding: 50px 25px;
+}
+footer a {
+    color:whitesmoke;
+
+}
+img{
+    border-radius: 25px;
+}
+#par{
+    margin-top:40px;
+}
+.uber p{
+    background-color:#00B06F;
+    color:whitesmoke;
+    font-family: 'Yomogi', cursive;
+    font-size:30px;
+    border: radius 50px;
+}
+.row img{
+    
+    border: 10px solid white;
+   
+}
